@@ -8,7 +8,6 @@ using ClassLibrary3;
 
 namespace ClassLibrary1
 {
-   
     public interface IDataAccessLayer
     {
         void InsertData(UserPL objPl);
